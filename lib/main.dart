@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo - Dika yonanda putra',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        visualDensity: VisualDensity.adaptivePlatformDensity
+        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: const FuturePage(),
     );
@@ -50,7 +50,21 @@ class _FuturePageState extends State<FuturePage> {
         child: Column(
           children: [
             const Spacer(),
-            ElevatedButton(onPressed: (){}, child: const Text('GO!')), 
+            ElevatedButton(
+              onPressed: () {
+                setState(() {});
+                getData()
+                    .then((value) {
+                      result = value.body.toString().substring(0, 450);
+                      setState(() {});
+                    })
+                    .catchError((_) {
+                      result = 'An error occured';
+                      setState(() {});
+                    });
+              },
+              child: const Text('GO!'),
+            ),
             const Spacer(),
             Text(result),
             const Spacer(),
