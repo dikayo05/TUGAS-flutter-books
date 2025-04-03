@@ -14,3 +14,10 @@
 - langkah 1, membuat function yang mereturn/mengembalikan/menghasilkan angka setelah 3 detik
 - langkah 2, membuat function yang menjumlahkan 3 function pada langkah 1, karena tiap function delay 3 detik jadi dibutuhkan 9 detik untuk mendapatkan hasilnya
 <img src="images/p2s4.gif">
+
+## Praktikum 3
+### Soal 5
+- late Completer completer = membuat variabel yang akan diisi nanti
+- function getNumber menginisialisasi variabel completer, mengeksekusi calculate() lalu mengembalikan completer
+- function calculate akan menunggu 5 detik lalu mengeksekusi completer yang menghasilkan angka 42
+<img src="images/p3s5.gif">
