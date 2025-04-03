@@ -21,3 +21,7 @@
 - function getNumber menginisialisasi variabel completer, mengeksekusi calculate() lalu mengembalikan completer
 - function calculate akan menunggu 5 detik lalu mengeksekusi completer yang menghasilkan angka 42
 <img src="images/p3s5.gif">
+
+### Soal 6
+bedanya hanya pada langkah 5-6 menggunakan try catch untuk menampung error jika memang ada error pada function calculate
+<img src="images/p3s6.gif">
