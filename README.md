@@ -25,3 +25,7 @@
 ### Soal 6
 bedanya hanya pada langkah 5-6 menggunakan try catch untuk menampung error jika memang ada error pada function calculate
 <img src="images/p3s6.gif">
+
+## Praktikum 4
+### Soal 7
+<img src="images/p4s7.gif">
