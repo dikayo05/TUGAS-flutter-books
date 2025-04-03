@@ -29,3 +29,7 @@ bedanya hanya pada langkah 5-6 menggunakan try catch untuk menampung error jika 
 ## Praktikum 4
 ### Soal 7
 <img src="images/p4s7.gif">
+
+### Soal 8
+- FutureGroup bisa menambahkan Future secara dinamis sebelum close() dipanggil (untuk jumlah Future yang belum pasti)
+- Future.wait langsung menjalankan Future yang sudah ada dari awal (untuk jumlah Future yang sudah pasti)
