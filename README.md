@@ -49,3 +49,7 @@ di browser tidak bisa karena kode
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 itu untuk meminta izin pada perangkat android, bukan browser
 <img src="images/p6s12.gif">
+
+## Praktikum 7
+### Soal 13
+<img src="images/p7s13.gif">
