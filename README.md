@@ -37,3 +37,7 @@ bedanya hanya pada langkah 5-6 menggunakan try catch untuk menampung error jika 
 ## Praktikum 5
 ### Soal 9
 <img src="images/p5s9.gif">
+
+### Soal 10
+pada langkah 1, handle errornya dilakukan saat methodnya dipanggil
+sedangkan pada langkah 2, handle errornya sudah ada di dalam method, jadi tidak perlu membuat handle error lagi saat memanggil methodnya
