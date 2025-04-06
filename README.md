@@ -54,3 +54,7 @@ itu untuk meminta izin pada perangkat android, bukan browser
 ### Soal 13
 bedanya sedikit lebih rapih mungkin
 <img src="images/p7s13.gif">
+
+### Soal 14
+tidak ada bedanya karena tidak error, jika snapshot error maka akan muncul teks "something terrible happened!"
+<img src="images/p7s13.gif">
