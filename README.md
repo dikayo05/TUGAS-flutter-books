@@ -52,4 +52,5 @@ itu untuk meminta izin pada perangkat android, bukan browser
 
 ## Praktikum 7
 ### Soal 13
+bedanya sedikit lebih rapih mungkin
 <img src="images/p7s13.gif">
