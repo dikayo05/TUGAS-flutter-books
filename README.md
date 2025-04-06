@@ -41,3 +41,11 @@ bedanya hanya pada langkah 5-6 menggunakan try catch untuk menampung error jika 
 ### Soal 10
 pada langkah 1, handle errornya dilakukan saat methodnya dipanggil
 sedangkan pada langkah 2, handle errornya sudah ada di dalam method, jadi tidak perlu membuat handle error lagi saat memanggil methodnya
+
+## Praktikum 6
+### Soal 12
+di browser tidak bisa karena kode
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+itu untuk meminta izin pada perangkat android, bukan browser
+<img src="images/p6s12.gif">
