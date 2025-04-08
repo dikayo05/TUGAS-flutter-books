@@ -64,6 +64,7 @@ tidak ada bedanya karena tidak error, jika snapshot error maka akan muncul teks 
 saat di klik change button akan mengarah ke navigation second screen, lalu jika tombol red ditekan maka akan mengubah warna background ke red, yang lainnya juga sama sesuai warnanya masing"
 <img src="images/p8s16.gif">
 
+## Praktikum 9
 ### Soal 17
 sama seperti sebelumnya tiap tombolnya ditekan akan mengubah warna background, hanya saja bedanya ini menggunakan AlertDialog()
-<img src="images/p8s17.gif">
+<img src="images/p9s17.gif">
