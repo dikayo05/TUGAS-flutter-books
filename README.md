@@ -58,3 +58,9 @@ bedanya sedikit lebih rapih mungkin
 ### Soal 14
 tidak ada bedanya karena tidak error, jika snapshot error maka akan muncul teks "something terrible happened!"
 <img src="images/p7s13.gif">
+
+## Praktikum 8
+### Soal 16
+saat di klik change button akan mengarah ke navigation second screen, lalu jika tombol red ditekan maka akan mengubah warna background ke red, yang lainnya juga sama sesuai warnanya masing"
+
+<img src="images/p8s16.gif">

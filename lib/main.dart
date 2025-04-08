@@ -1,4 +1,5 @@
 import 'package:books/location_screen.dart';
+import 'package:books/navigation_first.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:async/async.dart';
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const Locationscreen(),
+      home: const NavigationFirst(),
     );
   }
 }
